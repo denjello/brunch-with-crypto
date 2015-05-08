@@ -1,0 +1,49 @@
+{
+  "recipeson": {
+    "-version": "0.1",
+    "recipe": {
+      "head": {
+        "title": "冷たい豆腐サラダ",
+        "lang": "en_US",
+        "system": "metric",
+        "categories": { "cat": "Vegan" },
+        "yield": "30"
+      },
+      "ingredients": {
+        "ing": [
+          {
+            "amt": {
+              "qty": "1",
+              "unit": "block"
+            },
+            "item": "salad tofu"
+          },
+          {
+            "amt": {
+              "qty": "1",
+              "unit": "bunch"
+            },
+            "item": "spring onions"
+          },
+          {
+            "amt": {
+              "qty": "1",
+              "unit": "drop"
+            },
+            "item": "sesame oil"
+          },
+          {
+            "amt": {
+              "qty": "1",
+              "unit": "teaspoon"
+            },
+            "item": "light soy sauce"
+          },
+        ]
+      },
+      "directions": {
+        "step": "open tofu packaging with a knife and let the liquid pour out of the packaging. cut the lid open completely and empty the packaging onto a plate. slice the green parts of some spring onions and sprinkle them ontop of the tofu. add a drop of sesame oil on top, followed by a teaspoonful of light soy sauce. enjoy."
+      }
+    }
+  }
+}
