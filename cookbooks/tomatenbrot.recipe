@@ -1,0 +1,70 @@
+{
+  "recipeson": {
+    "-version": "0.1",
+    "recipe": {
+      "head": {
+        "title": "Tomatenbrot",
+        "lang": "de_DE",
+        "system": "metric",
+        "categories": { "cat": ["Vegan", "Bread"] },
+        "yield": "40"
+      },
+      "ingredients": {
+        "ing": [
+          {
+            "amt": {
+              "qty": "3200",
+              "unit": "gram"
+            },
+            "item": "Mehl -- typ 440"
+          },
+          {
+            "amt": {
+              "qty": "4",
+              "unit": "Würfel"
+            },
+            "item": "Hefe -- frisch"
+          },
+          {
+            "amt": {
+              "qty": "50",
+              "unit": "milliliter"
+            },
+            "item": "Wasser -- lauwarm bis warm -- NICHT HEISS!"
+          },
+          {
+            "amt": {
+              "qty": "1",
+              "unit": "Prise"
+            },
+            "item": "Zucker"
+          },
+          {
+            "amt": {
+              "qty": "1,8",
+              "unit": "liter"
+            },
+            "item": "Tomatensaft"
+          },
+          {
+            "amt": {
+              "qty": "1",
+              "unit": "Suppenlöffel"
+            },
+            "item": "Salz"
+          },
+          {
+            "amt": {
+              "qty": "5",
+              "unit": "g"
+            },
+            "item": "Rosmarin"
+          }
+        ]
+      },
+      "directions": {
+        "step": "Zerbrossele Hefe im Wasser, Zucker und eine Prise Mehl zugeben. Rühren und stehen lassen. 3 kg Mehl in einen grossen Schüssel geben. Dazu Salz und Rosmarin. Gut durchmischen. Hefe-Wasser gemisch und 1 Liter Tomatensaft zugeben und mit einem Holzlöffel rühren. Tomatensaft langsam zugeben und mit der Hand mischen bis es nicht mehr klebt. Gegebenenfalls Mehl zugeben. Dann 10 Minuten kneten. Mit einem feuchten Tuch überdecken und mindestens 3 Stunden gehen lassen. Die Teigmasse durchkneten, und wieder mit einem feuchten Tuch zudecken. Nach mindestens eine Stunde den Teig auf einem mit Mehl gestreuten Holzplatte auskippen und im Form rollen. Mit einem scharfen Messer, Tennisbällchen grösse Knollen ausschneiden, zu Bällchen formen und auf einem mit Paniermehl gestrezten Backblech platzieren. Die Brötchen im Oven ca. 30 Minuten bei 185° Celsius backen. Bevor die Öberfläche gebräunt ist, nimm die Backbleche aus den Oven heraus. In eine Papiertüte platzieren die in eine Plastiktüte gesteckt ist. 10 Minuten dämpfen lassen und servieren."
+      }
+    }
+  }
+}

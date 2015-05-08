@@ -1,0 +1,63 @@
+{
+"recipeson": {
+"-version": "0.1",
+"recipe": {
+"head": {
+"title": "Vegane Metadatenwurst",
+"lang": "de_DE",
+"system": "metric",
+"categories": { "cat": "Vegan" },
+"yield": "30"
+},
+"ingredients": {
+"ing": [
+{
+"amt": {
+"qty": "200",
+"unit": "gram"
+},
+"item": "Reiswaffeln"
+},
+{
+"amt": {
+"qty": "1",
+"unit": "Tube"
+},
+"item": "Tomatenmark -- dreifach konzentriert"
+},
+{
+"amt": {
+"qty": "300",
+"unit": "milliliter"
+},
+"item": "Gemüsebrühe"
+},
+{
+"amt": {
+"qty": "50",
+"unit": "milliliter"
+},
+"item": "Sonnenblumenöl"
+{
+"amt": {
+"qty": "2",
+"unit": "Teelöffel"
+},
+"item": "Hackfleischgewürz"
+},
+{
+"amt": {
+"qty": "1",
+"unit": "prise"
+},
+"item": "Majoran -- getrocknet"
+},
+]
+},
+"directions": {
+"step": "Die Reiswaffeln in einer Schüssel zerbröseln. Gemüsebrühe mit Tomatenmark, Gewürzen und Öl vermischen und das mit den Reiswaffelbröseln vermischen. Über Nacht im Kühlschrank ziehen lassen. "
+}
+}
+}
+}
+
