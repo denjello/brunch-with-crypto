@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### ChefCookbook template
+.vagrant
+#/cookbooks
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
+
+
