@@ -1,0 +1,49 @@
+{
+  "recipeson": {
+    "-version": "0.1",
+    "recipe": {
+      "head": {
+        "title": "Transpiled Carrots",
+        "lang": "en_EN",
+        "system": "metric",
+        "categories": { "cat": "Vegan" },
+        "yield": "30"
+      },
+      "ingredients": {
+        "ing": [
+          {
+            "amt": {
+              "qty": "2000",
+              "unit": "gram"
+            },
+            "item": "Organic Carrots"
+          },
+          {
+            "amt": {
+              "qty": "1000",
+              "unit": "milliliter"
+            },
+            "item": "Water -- filtered"
+          },
+          {
+            "amt": {
+              "qty": "2000",
+              "unit": "milliliter"
+            },
+            "item": "Heavy soy cream"
+          },
+          {
+            "amt": {
+              "qty": "1",
+              "unit": "Teaspoon"
+            },
+            "item": "Salt -- not iodized"
+          }
+        ]
+      },
+      "directions": {
+        "step": "Peel the carrots, cut off the ends and remove any damaged parts. Cut them into thirds and put into a pressure cooker with water. Cook for two hours. Carefully open the pressure cooker and reserve out the cooking water. Add the heavy soy cream and puree. Restore cooking water to desired consistency. Serve hot but not burning."
+      }
+    }
+  }
+}

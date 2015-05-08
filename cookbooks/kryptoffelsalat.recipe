@@ -1,0 +1,63 @@
+{
+    "recipeson": {
+        "-version": "0.1",
+        "recipe": {
+            "head": {
+            "title": "Kryptoffelsalat, Cryptato Salad",
+            "lang": "de_DE",
+            "system": "metric",
+            "categories": { "cat": "Vegan" },
+            "yield": "30"
+            },
+            "ingredients": {
+                "ing": [
+                    {
+                    "amt": {
+                        "qty": "2",
+                        "unit": "kilo"
+                    },
+                    "item": "Kartoffeln -- festkochend"
+                    },
+                    {
+                    "amt": {
+                        "qty": "500",
+                        "unit": "gramm"
+                    },
+                    "item": "Mayonaise -- vegan & selbstgemacht"
+                    },
+                    {
+                    "amt": {
+                        "qty": "1/2",
+                        "unit": "Glas"
+                    },
+                    "item": "Gewürzgurken"
+                    },
+                    {
+                    "amt": {
+                        "qty": "4",
+                        "unit": "Stück"
+                    },
+                    "item": "Zwiebeln"
+                    },
+                    {
+                    "amt": {
+                        "qty": "4",
+                        "unit": "Teelöffel"
+                    },
+                    "item": "Salz -- unjodiert"
+                    },
+                    {
+                    "amt": {
+                        "qty": "0,5",
+                        "unit": "Teelöffel"
+                    },
+                    "item": "Schwarzer Pfeffer -- gemahlen"
+                    },
+                ]
+            },
+            "directions": {
+                "step": "Die Kartoffeln waschen und ungeschält mit der Hälfte des Salzes kochen. Nach dem Abgießen des Wassers die Kartoffeln leicht abkühlen lassen und danach pellen. Die Kartoffeln in etwa 0.5 cm dicke Scheiben schneiden und kalt stellen. Inzwischen Gurken und Zwiebeln in feine Würfel schneiden, unter die abgekühlten Kartoffeln unterheben und alles mit der Mayonaise, dem Salz und dem Pfeffer vermischen."
+            }
+        }
+    }
+}
