@@ -1,0 +1,63 @@
+(01:16:12 AM) silverpearl@jabber.ccc.de: {
+"recipeson": {
+"-version": "0.1",
+"recipe": {
+"head": {
+"title": "Patch",
+"lang": "de_DE",
+"system": "metric",
+"categories": { "cat": "Vegan" },
+"yield": "30"
+},
+"ingredients": {
+"ing": [
+{
+"amt": {
+"qty": "1",
+"unit": "liter"
+},
+"item": "Rapsöl"
+},
+{
+"amt": {
+"qty": "0.5",
+"unit": "liter"
+},
+"item": "Sojamilch -- natur & ungesüßt"
+},
+{
+"amt": {
+"qty": "0,5",
+"unit": "Teelöffel"
+},
+"item": "Zitronensaft -- frisch gepresst"
+},
+{
+"amt": {
+"qty": "0,5",
+"unit": "Teelöffel"
+},
+"item": "Senf"
+},
+{
+"amt": {
+"qty": "1",
+"unit": "Prise"
+},
+"item": "Salz -- unjodiert"
+},
+{
+"amt": {
+"qty": "Prise",
+"unit": "Teelöffel"
+},
+"item": "Schwarzer Pfeffer -- gemahlen"
+},
+]
+},
+"directions": {
+"step": "Nacheinander Sojamilch, Zitronensaft und Öl mit einem Pürierstab vermischen. Danach mit Senf, Salz und Pfeffer abschmecken."
+}
+}
+}
+}
