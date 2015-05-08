@@ -1,0 +1,56 @@
+{
+  "recipeson": {
+    "-version": "0.1",
+    "recipe": {
+      "head": {
+        "title": "Salty Hash Browns",
+        "lang": "en_EN",
+        "system": "metric",
+        "categories": { "cat": "Vegan" },
+        "yield": "40"
+      },
+      "ingredients": {
+        "ing": [
+          {
+            "amt": {
+              "qty": "4000",
+              "unit": "gram"
+            },
+            "item": "Potatoes"
+          },
+          {
+            "amt": {
+              "qty": "100",
+              "unit": "milliliter"
+            },
+            "item": "Sunflower Oil"
+          },
+          {
+            "amt": {
+              "qty": "2000",
+              "unit": "milliliter"
+            },
+            "item": "Heavy soy cream"
+          },
+          {
+            "amt": {
+              "qty": "1",
+              "unit": "Teaspoon"
+            },
+            "item": "Salt -- not iodized"
+          },
+          {
+            "amt": {
+              "qty": "50",
+              "unit": "gram"
+            },
+              "item": "Flour -- Type 440"
+            }
+        ]
+      },
+      "directions": {
+        "step": "Peel and wash the potatoes. Grate the potatoes. Mix soy cream, flour and salt then add to potatoes. Heat oil in steel pan and keep hot. Place patties of the mixture into the oil and fry until brown on both sides."
+      }
+    }
+  }
+}

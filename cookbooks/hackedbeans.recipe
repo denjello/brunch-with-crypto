@@ -1,0 +1,35 @@
+{
+  "recipeson": {
+    "-version": "0.1",
+    "recipe": {
+      "head": {
+        "title": "Hacked Beans",
+        "lang": "en_EN",
+        "system": "metric",
+        "categories": { "cat": "Vegan" },
+        "yield": "20"
+      },
+      "ingredients": {
+        "ing": [
+          {
+            "amt": {
+              "qty": "3000",
+              "unit": "gram"
+            },
+            "item": "Kidney Beans"
+          },
+          {
+            "amt": {
+              "qty": "500",
+              "unit": "gram"
+            },
+            "item": "Brown Sugar"
+          }
+        ]
+      },
+      "directions": {
+        "step": "Mix beans and sugar. Bake in oven for 35 minutes at 180° C."
+      }
+    }
+  }
+}
