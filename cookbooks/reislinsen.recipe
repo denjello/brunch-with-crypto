@@ -1,0 +1,70 @@
+{
+  "recipeson": {
+    "-version": "0.1",
+    "recipe": {
+      "head": {
+        "title": "Reis und Linsen Aufstrich",
+        "lang": "de_DE",
+        "system": "metric",
+        "categories": { "cat": "Vegan" },
+        "yield": "30"
+      },
+      "ingredients": {
+        "ing": [
+          {
+            "amt": {
+              "qty": "500",
+              "unit": "gram"
+            },
+            "item": "rote Linsen -- gewaschen"
+          },
+          {
+            "amt": {
+              "qty": "1000",
+              "unit": "gram"
+            },
+            "item": "Jasminreis -- gewaschen"
+          },
+          {
+            "amt": {
+              "qty": "2000",
+              "unit": "milliliter"
+            },
+            "item": "Wasser -- filtriert"
+          },
+          {
+            "amt": {
+              "qty": "1",
+              "unit": "Teelöffel"
+            },
+            "item": "Salz -- nicht jodiert"
+          },
+          {
+            "amt": {
+              "qty": "1",
+              "unit": "prise"
+            },
+            "item": "Schwarzes Pfeffer -- gemahlen"
+          },
+          {
+            "amt": {
+              "qty": "1",
+              "unit": "Teelöffel"
+            },
+            "item": "Paprika -- edelsüß"
+          },
+          {
+            "amt": {
+              "qty": "50",
+              "unit": "milliliter"
+            },
+            "item": "Sojasahne"
+          }
+        ]
+      },
+      "directions": {
+        "step": "Die Linsen 4 Stunden im Topf ziehen lassen. Gesalzenes Wasser zum kochen bringen dann Temperatur reduzieren und 10 Minuten auf mittlere Hitze kochen. Reis dazu geben, gegebenenfalls Wasser nachfüllen. Weitere 10 Minuten kochen. Wenn das Reis schon fertig ist, vom Herd nehmen und Wasser abgießen. Circa 20 Minuten abkühlen lassen. Die Sojasahne dazugeben und Purieren. Mit Paprika und frisch gemalenes Pfeffer garnieren."
+      }
+    }
+  }
+}
