@@ -13,14 +13,28 @@
         "ing": [
           {
             "amt": {
-              "qty": "3500",
+              "qty": "3000",
               "unit": "gram"
             },
             "item": "Flour -- Type 440"
           },
           {
             "amt": {
-              "qty": "200",
+              "qty": "3",
+              "unit": "sachet"
+            },
+            "item": "Baking Powder"
+          },
+          {
+            "amt": {
+              "qty": "2",
+              "unit": "sachet"
+            },
+            "item": "Vanilla Sugar (Vanillin)"
+          },
+          {
+            "amt": {
+              "qty": "100",
               "unit": "milliliter"
             },
             "item": "Heavy soy cream"
@@ -34,15 +48,15 @@
           },
           {
             "amt": {
-              "qty": "400",
-              "unit": "milliliter"
+              "qty": "3.5",
+              "unit": "liter"
             },
             "item": "Soy milk"
          }
         ]
       },
       "directions": {
-        "step": "Mix flour and sugar in a bowl. Mix soy milk and soycream, add to flour / sugar mixture. Fry in elliptical form."
+        "step": "Mix flour, baking powder, vanilla-sugar and sugar in a bowl. Mix soy milk and soycream, add to flour / sugar mixture. If there are still lumps, keep mixing. (If you want to have more chewy cakes, use a handmixer.) Fry in elliptical shapes because circles are not crypto."
       }
     }
   }
